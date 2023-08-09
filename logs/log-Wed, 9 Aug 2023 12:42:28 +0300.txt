@@ -1,0 +1,9 @@
+[12:42:29] [main/INFO]: Configure 'Waterfall' Minecraft Server..
+[12:42:29] [main/INFO]: Configure 'Hub' Minecraft Server..
+[12:42:29] [main/INFO]: Configure 'Survival' Minecraft Server..
+[12:42:29] [main/INFO]: Configure 'Pizantia' Minecraft Server..
+[12:42:29] [main/INFO]: Configure 'Samara' Minecraft Server..
+[12:42:29] [main/INFO]: Configure 'Skywars Duels' Minecraft Server..
+[12:42:29] [main/INFO]: Configure 'Parkour' Minecraft Server..
+[12:42:29] [main/INFO]: Configure 'Two HP Survival' Minecraft Server..
+[12:42:29] [main/INFO]: Configure 'PVP' Minecraft Server..

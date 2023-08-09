@@ -1,0 +1,13 @@
+
+MINECRAFT_SERVER : waterfall,       /home/user/waterfall,                       waterfall.jar, end,         Waterfall
+
+#MINECRAFT_SERVER : waterfall,       /home/user/servers/minecraft/waterfall,     waterfall.jar, end,         Waterfall
+MINECRAFT_SERVER : hub,             /home/user/servers/minecraft/hub,           paper.jar,     stopCommand, Hub
+MINECRAFT_SERVER : survival,        /home/user/servers/minecraft/survival,      paper.jar,     stopCommand, Survival
+MINECRAFT_SERVER : pizantia,        /home/user/servers/minecraft/pizzantia,     paper.jar,     stopCommand, Pizantia
+MINECRAFT_SERVER : samara,          /home/user/servers/minecraft/samara,        paper.jar,     stopCommand, Samara
+MINECRAFT_SERVER : skywars,         /home/user/servers/minecraft/skywars,       paper.jar,     stopCommand, Skywars Duels
+MINECRAFT_SERVER : parkour,         /home/user/servers/minecraft/parkour,       paper.jar,     stopCommand, Parkour
+MINECRAFT_SERVER : two_hp_survival, /home/user/servers/minecraft/twohpsurvival, paper.jar,     stopCommand, Two HP Survival
+MINECRAFT_SERVER : pvp,             /home/user/servers/minecraft/pvp,           paper.jar,     stopCommand, PVP
+

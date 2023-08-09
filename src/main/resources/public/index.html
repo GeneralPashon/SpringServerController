@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Server Controller</title>
+    <meta charset="utf-8">
+    <link rel="shortcut icon" href="res/icon.png">
+    
+    <link type="text/css" rel="stylesheet" href="css/navbar.css">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="js/jquery-3.6.0.js"></script>
+</head>
+<body>
+
+    <div id="top_navbar">
+        <div id="logo">Server Controller</div>
+        <img id="icon" src="res/icon.png">
+    </div>
+    
+    <div id="left_navbar">
+        <div class="left_navbar_section_title">Minecraft Servers:</div>
+        <ul id="minecraft_server_list"></ul>
+        <div class="left_navbar_section_title">Terraria Servers:</div>
+        <ul id="terraria_server_list"></ul>
+    </div>
+
+    <div id="main">
+        <div id="server_name">Minecraft / Waterfall</div>
+
+        <div id="server_info">
+            <img id="server_icon" src="res/server-icons/waterfall.png">
+
+            <div id="controller_div">
+                <button id="start_server_button">Start</button>
+                <button id="stop_server_button" disabled>Stop</button>
+                <button id="kill_server_button" disabled>Force Stop</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/main.js"></script>
+
+</body>
+</html>
